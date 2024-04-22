@@ -2,7 +2,7 @@
 
 ### Functions from `<ctype.h>`
 
-- [`ft_isalpha`](https://github.com/Aerly-Lex/00-libft/blob/main/ft_atoi.c)	- checks  for  an  alphabetic  character.
+- [`ft_isalpha`](ft_atoi.c)	- checks  for  an  alphabetic  character.
 - [`ft_isdigit`](ft_bzero.c)	- checks for a digit (0 through 9).
 - [`ft_isalnum`](ft_isalnum.c)	- checks for an alphanumeric character.
 - [`ft_isascii`](ft_isascii.c)	- checks whether c fits into the ASCII character set.
@@ -57,7 +57,7 @@
 
 ### Non-mandatory functions
 
-- [`ft_fibonacci`](ft_fibonacci.c)	- generate the fibonacci Sequence.
-- [`ft_sqrt`](ft_sqrt.c)	- find the square root of a given number.
-- [`ft_strcmp`](ft_strcmp.c)	- compare two strings.
+- [`ft_fibonacci`](extra_utils/ft_fibonacci.c)	- generate the fibonacci Sequence.
+- [`ft_sqrt`](extra_utils/ft_sqrt.c)	- find the square root of a given number.
+- [`ft_strcmp`](extra_utils/ft_strcmp.c)	- compare two strings.
 
