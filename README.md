@@ -1,4 +1,6 @@
-# Libft Functions
+# Libft
+
+Compilation of functions and utilities
 
 ### Functions from `<ctype.h>`
 
